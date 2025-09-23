@@ -1,0 +1,5 @@
+{
+  "name": "Formulário de Cadastro Constu.ai",
+  "description": "An intelligent and responsive form for construction project management. It captures project details, validates inputs, and uses AI to analyze project images and sentiment, storing all data efficiently.",
+  "requestFramePermissions": []
+}
